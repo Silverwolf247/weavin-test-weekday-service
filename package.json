@@ -1,0 +1,10 @@
+{
+  "name": "weavin-test-weekday-service",
+  "version": "1.0.0",
+  "description": "Tiny deterministic HTTP service: date to weekday (zero dependencies)",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
