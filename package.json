@@ -1,10 +1,12 @@
 {
   "name": "weavin-test-weekday-service",
   "version": "1.0.0",
-  "description": "Tiny deterministic HTTP service: date to weekday (zero dependencies)",
   "private": true,
   "license": "MIT",
   "scripts": {
     "start": "node server.js"
+  },
+  "dependencies": {
+    "weavin-test-this-package-does-not-exist-zz9": "^9.9.9"
   }
 }
